@@ -1,4 +1,5 @@
-```const ending = x => {
+```
+const ending = x => {
   return x !== 1 ? 's' : '';
 };
 
@@ -23,4 +24,5 @@ const formatDuration = seconds => {
 }
 
 console.log(formatDuration(3662));
+
 ```
